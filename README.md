@@ -2,6 +2,8 @@
 
 This project is Struts2-plugin for use [Thymeleaf](http://www.thymeleaf.org) templating engine.
 
+This project fork from [Struts2-thymeleaf-plugin](https://github.com/codework/struts2-thymeleaf-plugin), Steven Benitez.
+
 ## Example Usage
 
 The examples below show you how to map an action's result to a Thymeleaf
@@ -70,9 +72,9 @@ The following reflects the default settings.
     <constant name="struts.thymeleaf.cacheTtlMillis" value="3600000"/>
     <constant name="struts.thymeleaf.templateEngineName" value="default"/>
 
-## Version 2.3.24 - Spring support & type conversion handling
+## Spring support & type conversion handling
 
-Since version 2.3.24 , this plugin provided accessibility for spring bean , and Struts2 type conversion error handling support.
+This plugin can provide accessibility for spring bean , and Struts2 type-conversion error handling support.
 
 ### How to use Spring Bean
 
