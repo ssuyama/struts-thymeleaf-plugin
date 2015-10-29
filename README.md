@@ -82,7 +82,7 @@ This plugin can provide accessibility for spring bean , and Struts2 type-convers
 * in html template : ${beans.[BeanName]}
 * struts.properties : struts.thymeleaf.templateEngineName=spring
 
-### Hot to use Type conversion support field.
+### How to use Type conversion support field.
 
 use this namespace : sth
 this diarect supported value and errorclass such as thymeleaf spring support.
