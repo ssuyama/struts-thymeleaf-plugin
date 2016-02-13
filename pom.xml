@@ -7,7 +7,7 @@
 	<url>https://github.com/A-pZ/</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<struts2.version>2.5-BETA2</struts2.version>
+		<struts2.version>2.5-BETA3</struts2.version>
 		<thymeleaf.version>2.1.4.RELEASE</thymeleaf.version>
 		<spring.version>4.1.6.RELEASE</spring.version>
 	</properties>
